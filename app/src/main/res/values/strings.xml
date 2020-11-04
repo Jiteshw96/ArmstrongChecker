@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArmstrongChecker</string>
+    <string name="result_true"> is an Armstrong number</string>
+    <string name="result_false"> is not an Armstrong number</string>
+    <string name="memory_text">Memory used to calculate the Armstrong number is </string>
+    <string name="time_text">Time taken to execute the program </string>
+    <string name="low_text">The closest lower Armstrong number is </string>
+    <string name="high_text">The closest higher Armstrong number is </string>
+    <string name="result">Result:</string>
+
+</resources>
